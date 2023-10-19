@@ -17,10 +17,6 @@ http://hosts-file.net/.%5Cad_servers.txt remove
 # https://github.com/uBlockOrigin/uAssets/issues/8738
 https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt
 
-# https://github.com/uBlockOrigin/uAssets/issues/13566
-# https://twitter.com/gorhill/status/1352651716265713665
-https://www.joinhoney.com/whitelist/honey-smart-shopping.txt
-
 # whitelisting lists
 https://slickdeals.net/attachment/extension/allowlist.txt
 https://easylist-downloads.adblockplus.org/exceptionrules.txt
